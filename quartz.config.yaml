@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: pt-BR
-  baseUrl: simbolizado
+  baseUrl: rafaelhra89-dot.github.io/Simbolizado
   ignorePatterns:
     - private
     - templates
